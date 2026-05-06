@@ -1,18 +1,18 @@
 [
   {
+    "filename": "education-1778062659643.container.js.bundle",
+    "etag": "958aa7753641b511",
+    "builtAt": 1778062659643,
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/education/ios/education-1778062659643.container.js.bundle",
+    "storagePath": "education/ios",
+    "cdnBase": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/education/ios/chunks/958aa7753641b511"
+  },
+  {
     "filename": "education-1778058072337.container.js.bundle",
     "etag": "cddc1d5d04997b83",
     "builtAt": 1778058072337,
     "downloadUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/education/ios/education-1778058072337.container.js.bundle",
     "storagePath": "education/ios",
     "cdnBase": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/education/ios/chunks/cddc1d5d04997b83"
-  },
-  {
-    "filename": "education-1778057382833.container.js.bundle",
-    "etag": "0a1a472f68bbc891",
-    "builtAt": 1778057382833,
-    "downloadUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/education/ios/education-1778057382833.container.js.bundle",
-    "storagePath": "education/ios",
-    "cdnBase": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/education/ios"
   }
 ]
