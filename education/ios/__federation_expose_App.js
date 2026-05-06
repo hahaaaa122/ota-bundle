@@ -152,11 +152,11 @@ var CourseCard = (ref)=>{
                             flex: 1
                         },
                         children: [
-                            /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                                 style: styles.courseTitle,
                                 children: item.title
                             }),
-                            /*#__PURE__*/ (0, _jsxruntime.jsxs)(Text, {
+                            /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.Text, {
                                 style: styles.courseInstructor,
                                 children: [
                                     item.instructor,
@@ -166,7 +166,7 @@ var CourseCard = (ref)=>{
                             })
                         ]
                     }),
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                         style: [
                             styles.progressText,
                             {
@@ -192,15 +192,6 @@ var CourseCard = (ref)=>{
         ]
     });
 };
-// Inline Text component to avoid needing react-native-paper in the remote
-var Text = (ref)=>{
-    var style = ref.style, children = ref.children;
-    var RNText = (__webpack_require__("webpack/sharing/consume/default/react-native/react-native")/* .Text */.Text);
-    return /*#__PURE__*/ (0, _jsxruntime.jsx)(RNText, {
-        style: style,
-        children: children
-    });
-};
 function EducationRemoteApp(ref) {
     var onBack = ref.onBack;
     var _useState = _sliced_to_array((0, _react.useState)('enrolled'), 2), activeTab = _useState[0], setActiveTab = _useState[1];
@@ -216,16 +207,16 @@ function EducationRemoteApp(ref) {
                     onBack && /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
                         style: styles.backButton,
                         onPress: onBack,
-                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                             style: styles.backText,
                             children: "← Back"
                         })
                     }),
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                         style: styles.headerTitle,
                         children: "\uD83D\uDCDA Education v2"
                     }),
-                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(Text, {
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.Text, {
                         style: styles.headerSubtitle,
                         children: [
                             enrolledCourses.length,
@@ -242,11 +233,11 @@ function EducationRemoteApp(ref) {
                     /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
                         style: styles.statCard,
                         children: [
-                            /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                                 style: styles.statValue,
                                 children: "\uD83D\uDD25 7"
                             }),
-                            /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                                 style: styles.statLabel,
                                 children: "Day Streak"
                             })
@@ -255,11 +246,11 @@ function EducationRemoteApp(ref) {
                     /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
                         style: styles.statCard,
                         children: [
-                            /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                                 style: styles.statValue,
                                 children: "⏱ 4.5h"
                             }),
-                            /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                                 style: styles.statLabel,
                                 children: "This Week"
                             })
@@ -268,11 +259,11 @@ function EducationRemoteApp(ref) {
                     /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
                         style: styles.statCard,
                         children: [
-                            /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                                 style: styles.statValue,
                                 children: "\uD83C\uDFC6 3"
                             }),
-                            /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                                 style: styles.statLabel,
                                 children: "Completed"
                             })
@@ -289,7 +280,7 @@ function EducationRemoteApp(ref) {
                             activeTab === 'enrolled' && styles.tabActive
                         ],
                         onPress: ()=>setActiveTab('enrolled'),
-                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                             style: [
                                 styles.tabText,
                                 activeTab === 'enrolled' && styles.tabTextActive
@@ -303,7 +294,7 @@ function EducationRemoteApp(ref) {
                             activeTab === 'all' && styles.tabActive
                         ],
                         onPress: ()=>setActiveTab('all'),
-                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(Text, {
+                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
                             style: [
                                 styles.tabText,
                                 activeTab === 'all' && styles.tabTextActive
