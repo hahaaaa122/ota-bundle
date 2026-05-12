@@ -1,0 +1,34 @@
+{
+  "modules": [
+    {
+      "id": "education",
+      "name": "Education Suite",
+      "shortName": "Education",
+      "description": "Module học tập, lớp học, lịch biểu và trải nghiệm học viên.",
+      "accentColor": "#0369A1",
+      "version": "0.1.0",
+      "isEnabled": true,
+      "source": "embedded",
+      "loaderKey": "embedded:education",
+      "remote": {
+        "entryUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/education/ios/education-1778227199159.container.js.bundle",
+        "moduleName": "education/App"
+      }
+    },
+    {
+      "id": "movies",
+      "name": "Movies",
+      "shortName": "Phim",
+      "description": "Mini app xem phim phong cách Netflix – duyệt phim, tìm kiếm, xem chi tiết.",
+      "accentColor": "#E50914",
+      "version": "0.1.0",
+      "isEnabled": true,
+      "source": "embedded",
+      "loaderKey": "embedded:movies",
+      "remote": {
+        "entryUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/movies-1778571840370.container.js.bundle",
+        "moduleName": "movies/App"
+      }
+    }
+  ]
+}
