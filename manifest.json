@@ -11,7 +11,7 @@
       "source": "embedded",
       "loaderKey": "embedded:education",
       "remote": {
-        "entryUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/education/ios/education-1778227199159.container.js.bundle",
+        "entryUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/education/ios/education-1778573652651.container.js.bundle",
         "moduleName": "education/App"
       }
     },
@@ -26,7 +26,7 @@
       "source": "embedded",
       "loaderKey": "embedded:movies",
       "remote": {
-        "entryUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/movies-1778573230291.container.js.bundle",
+        "entryUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/movies-1778573686218.container.js.bundle",
         "moduleName": "movies/App"
       }
     }
