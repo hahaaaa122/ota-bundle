@@ -26,7 +26,7 @@
       "source": "embedded",
       "loaderKey": "embedded:movies",
       "remote": {
-        "entryUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/movies-1778575889712.container.js.bundle",
+        "entryUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/movies-1778576163348.container.js.bundle",
         "moduleName": "movies/App"
       }
     }
