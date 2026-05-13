@@ -1,10 +1,10 @@
 [
   {
-    "filename": "movies-1778646659537.container.js.bundle",
-    "etag": "22aa2ce25b5b6834",
-    "builtAt": 1778646659537,
-    "downloadUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/movies-1778646659537.container.js.bundle",
+    "filename": "movies-1778647091380.container.js.bundle",
+    "etag": "fdf4134181bf6279",
+    "builtAt": 1778647091380,
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@1a425338f6725a7eef6c6a8630f868d77e2b7c7b/movies/ios/movies-1778647091380.container.js.bundle",
     "storagePath": "movies/ios",
-    "cdnBase": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/chunks/22aa2ce25b5b6834"
+    "cdnBase": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@1a425338f6725a7eef6c6a8630f868d77e2b7c7b/movies/ios/chunks/fdf4134181bf6279"
   }
 ]
