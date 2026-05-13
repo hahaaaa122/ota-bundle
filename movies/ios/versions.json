@@ -1,10 +1,10 @@
 [
   {
-    "filename": "movies-1778639668567.container.js.bundle",
-    "etag": "875131f34b3e1fc5",
-    "builtAt": 1778639668567,
-    "downloadUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/movies-1778639668567.container.js.bundle",
+    "filename": "movies-1778640349246.container.js.bundle",
+    "etag": "c611dfbbc60cfaf1",
+    "builtAt": 1778640349246,
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/movies-1778640349246.container.js.bundle",
     "storagePath": "movies/ios",
-    "cdnBase": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/chunks/875131f34b3e1fc5"
+    "cdnBase": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/movies/ios/chunks/c611dfbbc60cfaf1"
   }
 ]
