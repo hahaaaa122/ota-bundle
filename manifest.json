@@ -1,6 +1,21 @@
 {
   "modules": [
     {
+      "id": "sell",
+      "name": "Cửa Hàng",
+      "shortName": "Bán Hàng",
+      "description": "Mini app bán hàng – duyệt sản phẩm, thêm giỏ hàng và đặt hàng.",
+      "accentColor": "#EE4D2D",
+      "version": "0.1.0",
+      "isEnabled": true,
+      "source": "embedded",
+      "loaderKey": "embedded:sell",
+      "remote": {
+        "entryUrl": "https://cdn.jsdelivr.net/gh/hahaaaa122/ota-bundle@main/sell/ios/sell-1780023185822.container.js.bundle",
+        "moduleName": "sell/App"
+      }
+    },
+    {
       "id": "education",
       "name": "Education Suite",
       "shortName": "Education",
@@ -19,7 +34,7 @@
       "id": "movies",
       "name": "Movies",
       "shortName": "Phim",
-      "description": "Mini app xem phim phong cách Netflix – duyệt phim, tìm kiếm, xem chi tiết.",
+      "description": "Mini app xem phim phong cách Netflix.",
       "accentColor": "#E50914",
       "version": "0.1.0",
       "isEnabled": true,
