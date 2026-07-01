@@ -1,10 +1,10 @@
 [
   {
-    "filename": "movies-1782920623242.container.js.bundle",
-    "etag": "56c4e583b358f3f6",
-    "builtAt": 1782920623242,
-    "downloadUrl": "https://raw.githubusercontent.com/hahaaaa122/ota-bundle/main/movies/android/movies-1782920623242.container.js.bundle",
+    "filename": "movies-1782920991832.container.js.bundle",
+    "etag": "cee923c0fa0d1a20",
+    "builtAt": 1782920991832,
+    "downloadUrl": "https://raw.githubusercontent.com/hahaaaa122/ota-bundle/main/movies/android/movies-1782920991832.container.js.bundle",
     "storagePath": "movies/android",
-    "cdnBase": "https://raw.githubusercontent.com/hahaaaa122/ota-bundle/main/movies/android/chunks/56c4e583b358f3f6"
+    "cdnBase": "https://raw.githubusercontent.com/hahaaaa122/ota-bundle/main/movies/android/chunks/cee923c0fa0d1a20"
   }
 ]
