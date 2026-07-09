@@ -1,10 +1,11 @@
 [
   {
-    "filename": "chat-1783418809760.container.js.bundle",
-    "etag": "ae9369cd933207fe",
-    "builtAt": 1783418809760,
-    "downloadUrl": "https://raw.githubusercontent.com/hahaaaa122/ota-bundle/main/chat/ios/chat-1783418809760.container.js.bundle",
+    "filename": "chat-1783566255460.container.js.bundle",
+    "etag": "6a7ade307377c2a0",
+    "builtAt": 1783566255460,
+    "containerSha256": "d07bd5e7a1ff8cb34fffeb4e7af6318482bf61aedb8f18909c3f2c288b33a97a",
+    "downloadUrl": "https://raw.githubusercontent.com/hahaaaa122/ota-bundle/main/chat/ios/chat-1783566255460.container.js.bundle",
     "storagePath": "chat/ios",
-    "cdnBase": "https://raw.githubusercontent.com/hahaaaa122/ota-bundle/main/chat/ios/chunks/ae9369cd933207fe"
+    "cdnBase": "https://raw.githubusercontent.com/hahaaaa122/ota-bundle/main/chat/ios/chunks/6a7ade307377c2a0"
   }
 ]
